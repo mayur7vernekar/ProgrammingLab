@@ -1,2 +1,2 @@
 # ProgrammingLab
-Programming Lab Repo for Git 
+Programming Lab Repository for Git 
